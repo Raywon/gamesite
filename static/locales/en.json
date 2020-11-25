@@ -1,0 +1,655 @@
+{
+    "title": "Personality Test",
+    "title-sub" : "For fun, For me",
+    "meta_keywords" : "personality test,psycology, psycology test,personality,for fun , for me, funny, fun, test",
+    "meta_description" : "this homepage is information",
+    
+    "information":[["cookie-policy"],["privacy"],["license"]],
+
+    "content_title":[
+      [["Enjoy test"],["Find nationality"]] ,
+     [["Personallity test"],["Depression Test","Panic Disorder Test","Write your Secret"]]
+   ] ,
+
+
+    "depression_test" : {
+      "meta_keywords" : "Depression, depression test, depression cause, depression meaning, depression diagnosis, depression symptoms, depression treatment, psychiatric treatment, depression definition, depression is what depression means",
+      "meta_description" : "This test is a self-diagnosis test to diagnose depression. If you suspect depression, I recommend you to go to a nearby hospital for a professional diagnosis.",
+      "0": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","2"],
+          ["Frequently","3"],
+          ["Very Frequently","4"]
+        ]
+          ,
+        "title" : ["For the last two weeks, Your weight and appetite have been changed or You maintained irregular eating habits."]
+      },
+      "1": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","2"],
+          ["Frequently","4"],
+          ["Very Frequently","5"]
+        ],
+        "title" : ["For the last two weeks, You felt physical pain for no reason, or mentally difficult."]
+   
+      },
+      "2": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","3"],
+          ["Frequently","4"],
+          ["Very Frequently","6"]
+        ],
+        "title" : ["For the last two weeks, You felt depressed and less focused on work or study."]
+   
+      },
+      "3": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["For the last two weeks, You lost of interest or pleasure in hobbies and activities."]
+      },
+
+      "4": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["For the last two weeks, You have felt that interpersonal relationships were not amicable, and that people around me hated me."]
+      },
+      "5": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["For the last two weeks, You haven't talked to anyone or You have felt you didn't want to talk to anyone"]
+      },
+      "6": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","4"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["For the last two weeks, You've often felt down and You've lost your reason for life."]
+      },
+      "7": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["For the last two weeks, You have felt guilt and helplessness constantly, and You felt you am not worthy."]
+      },
+      "8": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","6"],
+          ["Frequently","10"],
+          ["Very Frequently","15"]
+        ],
+        "title" : ["For the last two weeks, insomnia has made it difficult to sleep, or You have had a sleep disorder that wakes up early in the morning."]
+      },
+      "9": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","16"],
+          ["Frequently","18"],
+          ["Very Frequently","20"]
+        ],
+        "title" : ["For the last two weeks, you have thought about suicide."]
+      },
+      
+    "result":[
+      "Depression points ",
+      "points",
+      "This psycological test was made by me who is machinelearning developer. So the results of the diagnosis are not as accurate as those by experts. And the developer of this website is not legally responsible. If you're curious about the exact results, visit a nearby hospital. ",
+      "In this psychological test, you got",
+      "points. This is the result of your psychological test."
+    ],
+
+    "symptom" : "symptom",
+    "helpful" : "helpful",
+    "yourlevel":"Your Risk Level is",
+    "level" : "level",
+    "exact" : "This self-diagnosis test was made by the developer of this homepage. Please consult with your nearest hospital or counselor for accurate results.",
+
+    "Extra_mild_depression_or_some_stress":{
+      "name":"Extra mild depression or some stress",
+      "explain":"It would be safe to say that there is no mental illness that is considered a mild,moderate,severe depression.",
+      "symptom":["some stress", "little anxiety"],
+      "helpful":["Light exercise", "Regular sleep"]
+    },
+
+    "mild_depression":{
+      "name":"Mild Depreesion",      
+      "explain":" 'Mild depression' is not as serious a mental illness as major depression (depression disorder), but it still needs treatment. If you get 30 or more points for depression in this psychological test, you may be suspicious. Mild depression can cause difficulties in personal relationships, or disrupt social life such as studying and working.",
+      "symptom":["Lethargy","weight changes","interpersonal difficulties","a loss of interest in activities you once enjoyed","frequent stress", "and so on."],
+      "helpful":["Light aerobic exercise", "Regular sleep","balanced meals", "yoga, meditation", "hobby activities you enjoy", "talking with family, friends", "and so on."]
+    },
+
+    "moderate_depression":{
+      "name":"Moderate Depression",
+      "explain":"'Moderate depression' is when you lose pleasure, interest in your daily life, and you lose your mood. If you get more than 60 points on this psychological test, you may be suspicious. Whatever you do, you're not happy, and you can feel lethargic again. I think we need treatment and consult a doctor to find a solution.",
+      "symptom":["despair and guilt", "difficulty concentrating", "avoidance of social life", "insomnia", "chronic fatigue", "energy shortage"," excessive worry"," low self-esteem", "and so on."],
+      "helpful":["Consultation with doctors", "continuous exercise", "balanced meals", "no drinking, no smoking", "abandoning negative thoughts", "and so on."]
+    },
+
+    
+    "severe_depression":{
+      "name":"Severe Depression",
+      "explain":"'Severe(major) depression' is a serious depression that feels extreme stress, agitation, or anxiety. If you get more than 80 points on this psychological test, you may be suspicious. It can cause a huge impact on social life and further damage to one's health. Treatment is necessary and I think you need to overcome it through frequent consultation with a doctor.",
+      "symptom":["extreme anxiety", "intellectual disorder", "severe insomnia", "severe self-hatred", "cut-off of personal relationships", "conflict with family", "self-destruction", "survival impulse", "and so on."],
+      "helpful":["Consultation with essential doctors", "Don't be afraid of drug therapy", "request for help", "regular meals", "continuous exercise", "talk with family", "consultation with professional counselors", "have a positive mind", "and so on"]
+    },
+
+    "sharebutton":[
+      ["facebook share",  "/facebook.png"],
+      ["kakaotalk share", "/kakao.png"],
+      ["twitter share", "/twitter.png"],
+      ["line share", "/line.png"]],
+
+    "replay": "replay"
+},
+
+
+
+    "Panic_disorder_test" : {
+      "meta_keywords" : "panic disorder, cause of panic disorder, symptoms of panic disorder, diagnosis of panic disorder, panic disorder test, treatment of panic disorder, panic disorder headache, panic disorder symptom test",
+      "meta_description" : "This test is a self-diagnosis test to diagnose panic disorder. If the symptoms of panic disorder are repeated or if the main test results suggest panic disorder, it is recommended to go through a nearby hospital and get a specialist's diagnosis.",
+      "0": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","3"],
+          ["Occasionally","7"],
+          ["Frequently","11"],
+          ["Very Frequently","15"]
+        ]
+          ,
+        "title" : ["You feel like I'm going to die suddenly and I'm going to be restless."]
+      },
+      "1": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","3"],
+          ["Frequently","5"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["When you go to a crowded place, your pulse beats fast and it's hard to breathe."]
+   
+      },
+      "2": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","3"],
+          ["Occasionally","9"],
+          ["Frequently","13"],
+          ["Very Frequently","15"]
+        ],
+        "title" : ["Suddenly you feel as if I'm suffocating."]
+   
+      },
+      "3": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","2"],
+          ["Frequently","3"],
+          ["Very Frequently","5"]
+        ],
+        "title" : ["The body is cold and the face heats up easily."]
+      },
+
+      "4": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","3"],
+          ["Occasionally","10"],
+          ["Frequently","13"],
+          ["Very Frequently","15"]
+        ],
+        "title" : ["Your heart is suddenly paralyzed and you feel like I'm going to lose my life."]
+      },
+      "5": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","3"],
+          ["Frequently","5"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["You often feel mental illness, such as depression, obsessive compulsion, and physical pain such as dizziness, anxiety, headache, dizziness, etc."]
+      },
+      "6": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","3"],
+          ["Frequently","4"],
+          ["Very Frequently","5"]
+        ],
+        "title" : ["Your chest feels stuffy and suffocating for no reason."]
+      },
+      "7": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","1"],
+          ["Occasionally","2"],
+          ["Frequently","4"],
+          ["Very Frequently","5"]
+        ],
+        "title" : [" You feel a lot of guilt, and you can't tolerate your own mistakes."]
+      },
+      "8": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","4"],
+          ["Occasionally","6"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["Suddenly You often feel intense anxiety."]
+      },
+      "9": 
+      {
+        "button" : 
+        [
+          ["Never","0"], 
+          ["Rarely","2"],
+          ["Occasionally","5"],
+          ["Frequently","8"],
+          ["Very Frequently","10"]
+        ],
+        "title" : ["You don't think your body is yours."]
+      },
+      
+    "result":[
+      "Your Panic Disorder points ",
+      "points",
+      "This psycological test was made by me who is machinelearning developer. So the results of the diagnosis are not as accurate as those by experts. And the developer of this website is not legally responsible. If you're curious about the exact results, visit a nearby hospital. ",
+      "In this psychological test, you got",
+      "points. This is the result of your psychological test."
+    ],
+
+    "symptom" : "symptom",
+    "helpful" : "helpful",
+    "yourlevel":"Your Risk Level is",
+    "level" : "level",
+    "exact" : "This self-diagnosis test was made by the developer of this homepage. Please consult with your nearest hospital or counselor for accurate results.",
+
+    
+
+    "Extra_mild_Panic_disorder_or_some_stress":{
+      "name":"Extra mild panic disorder or some stress",
+      "explain":"It would be safe to say that there is no mental illness that is considered a mild,moderate,severe panic disorder.",
+      "symptom":["some stress", "little anxiety"],
+      "helpful":["Light exercise", "Regular sleep", "have a positive mind"]
+    },
+
+    "mild_panic_disorder":{
+      "name":"Mild Panic Disorder",      
+      "explain":" 'Mild Panic Disorder' is not as serious a mental illness as major Panic Disorder, but it still needs treatment. If you get 30 or more points for Panic Disorder in this psychological test, you may be suspicious. Mild Panic Disorder can cause a cold fit, fast pulse beating or chest stuffiness",
+      "symptom":["cold fit", "fast pulse beating","chest stuffiness","and so on."],
+      "helpful":["Consultation with doctors","have a positive mind","and so on."]
+    },
+
+    "moderate_panic_disorder":{
+      "name":"Moderate Panic Disorder",
+      "explain":"'Moderate Panic Disorder' is If you get more than 50 points on this psychological test, you may be suspicious. Either the pulse beats fast, both your hands , feet and body may tremble and you may have 'moderate panic disorder'. I think a quick and accurate psychological test is required.",
+      "symptom":[ "tremors in the hands, feet or whole body.","Cardiovascular Diseases","Pain or pressure in the chest","The pulse beats fast and the heart beats violently.","and so on."],
+      "helpful":["Consultation with doctors","drug treatment","Precision Psychological Inspection","behavioral therapy","and so on."]
+    },
+
+    
+    "severe_panic_disorder":{
+      "name":"Severe Panic Disorder",
+      "explain":"'Severe(major) Panic Disorder' is a serious Disorder. If you get more than 80 points on this psychological test, you may be suspicious. It can be accompanied by serious symptoms such as fear of death, loss of self-control, and crazy fear. It's a very serious stage of risk for your life, so I think an essential diagnosis from a specialist is required.",
+      "symptom":["Feeling fear of death (unresisting fear, fear, anxiety, etc.)","Crazy or such fear", "Crazy or insane fear.","and so on."],
+      "helpful":["Consultation with essential doctors", "Don't be afraid of drug therapy", "request for help", "Precision Psychological Inspection", "consultation with professional counselors","behavioral therapy","drug treatment","and so on"]
+    },
+
+    "special_warning" : "The case of panic disorder Patient and family should be aware of the fact that panic disorder is not caused by weakness in personality, and that treatment is a way to correct biological abnormalities, which are brain transmitters.",
+
+    "sharebutton":[
+      ["facebook share",  "/facebook.png"],
+      ["kakaotalk share", "/kakao.png"],
+      ["twitter share", "/twitter.png"],
+      ["line share", "/line.png"]],
+
+    "replay": "replay"
+
+
+    },
+
+
+    "content2":{
+      "title":"다음 항목중 최근 2주 동안 있었던 일을 체크하시오",
+      "0": [
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["1번질문입니다 대답하시오!!!!!"],
+        ["11번질문입니다 대답하시오!!!!!"]
+       ],
+       "1": [
+      
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["2번질문입니다 대답하시오!!!!!"],
+        ["21번질문입니다 대답하시오!!!!!"]
+       ],
+       "2": [
+      
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["3번질문입니다 대답하시오!!!!!"],
+        ["31번질문입니다 대답하시오!!!!!"]
+       ],
+       "3": [
+      
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["4번질문입니다 대답하시오!!!!!"],
+        ["41번질문입니다 대답하시오!!!!!"]
+       ],
+
+       "result":[
+        "Depression points ",
+        "points",
+        "This psycological test was made by me who is machinelearning developer. So the results of the diagnosis are not as accurate as those by experts. And the developer of this website is not legally responsible. If you're curious about the exact results, visit a nearby hospital. ",
+        "In this psychological test, you got",
+        "points. This is the result of your psychological test."
+      ],
+  
+      "symptom" : "symptom",
+      "helpful" : "helpful",
+      "yourlevel":"Your Risk Level is",
+      "level" : "level",
+      "exact" : "This self-diagnosis test was made by the developer of this homepage. Please consult with your nearest hospital or counselor for accurate results.",
+  
+      
+      "Extra_mild_depression_or_some_stress":{
+        "name":"Extra mild depression or some stress",
+        "explain":"It would be safe to say that there is no mental illness that is considered a mild,moderate,severe depression.",
+        "symptom":["You are in good health."],
+        "helpful":["Enjoy your life"]
+      },
+  
+      "mild_depression":{
+        "name":"Mild Depreesion",      
+        "explain":" 'Mild depression' is not as serious a mental illness as major depression (depression disorder), but it still needs treatment. If you get 30 or more points for depression in this psychological test, you may be suspicious. Mild depression can cause difficulties in personal relationships, or disrupt social life such as studying and working.",
+        "symptom":["Lethargy","weight changes","interpersonal difficulties","a loss of interest in activities you once enjoyed","frequent stress", "and so on."],
+        "helpful":["Light aerobic exercise", "Regular sleep","balanced meals", "yoga, meditation", "hobby activities you enjoy", "talking with family, friends", "and so on."]
+      },
+  
+      "moderate_depression":{
+        "name":"Moderate Depression",
+        "explain":"'Moderate depression' is when you lose pleasure, interest in your daily life, and you lose your mood. If you get more than 50 points on this psychological test, you may be suspicious. Whatever you do, you're not happy, and you can feel lethargic again. I think we need treatment and consult a doctor to find a solution.",
+        "symptom":["despair and guilt", "difficulty concentrating", "avoidance of social life", "insomnia", "chronic fatigue", "energy shortage"," excessive worry"," low self-esteem", "and so on."],
+        "helpful":["Consultation with doctors", "continuous exercise", "balanced meals", "no drinking, no smoking", "abandoning negative thoughts", "and so on."]
+      },
+  
+      
+      "severe_depression":{
+        "name":"Severe Depression",
+        "explain":"'Severe(major) depression' is a serious depression that feels extreme stress, agitation, or anxiety. If you get more than 80 points on this psychological test, you may be suspicious. It can cause a huge impact on social life and further damage to one's health. Treatment is necessary and I think you need to overcome it through frequent consultation with a doctor.",
+        "symptom":["extreme anxiety", "intellectual disorder", "severe insomnia", "severe self-hatred", "cut-off of personal relationships", "conflict with family", "self-destruction]", "survival impulse", "and so on."],
+        "helpful":["Consultation with essential doctors", "Don't be afraid of drug therapy", "request for help", "regular meals", "continuous exercise", "talk with family", "consultation with professional counselors", "have a positive mind", "and so on"]
+      },
+  
+      "sharebutton":[
+        ["facebook share",  "/facebook.png"],
+        ["kakaotalk share", "/kakao.png"],
+        ["twitter share", "/twitter.png"],
+        ["line share", "/line.png"]],
+  
+      "replay": "replay"
+  
+  
+
+
+       },
+      
+    "findface":{
+      "meta_keywords" : "Face recognition, facial recognition principle, facial recognition algorithm, face recognition service, face recognition program, face recognition program, face recognition country search, face nationality search",
+      "meta_description" :"This site is an interesting test site using face recognition. It is an interesting test that finds the nationality of the face using face recognition function." ,
+      "onlykorean":"The homepage language consists only of Korean. Please wait until we add another language. or You can use Google Translator or Chrome Translator."
+    },
+
+
+    "tellmeyou":{
+      "meta_keywords" : "Counseling, counseling sites, anonymous counseling sites, counseling applications, counseling boards, counseling centers, problem-solving sites",
+      "meta_description" :"This site is a website that listens to all stories such as worries, secrets, and worries. Write down the frustrating problems that you usually thought of in your mind and blow them away. I guarantee your secret." ,
+
+      "body_title1": "Write your concern",
+      "body_title2": "and Fly it away",
+      "body_title3": "We don't collect your nickname, feeling, gender, age and concerns",
+      "Your_Nickname": "Your Nickname",
+      "Feeling": "Feeling",
+      "Gender": "Gender",
+      "Age": "Age",
+      "Concerns": "Please write down your concerns",
+    
+      "Feeling_items":["Blue", "Sad", "Angry", "Confused", "Embarrassed", "Anxious"],
+      "Gender_items":["female", "male"],
+      "Age_items" :["Teenager", "Adult", "Elderly"],
+      
+      "send": "Send",
+      "share": "Share",
+      "send_message1": "Thanks for telling me.",
+      "send_message2": "Now I'll pray to fly your worries away.",
+      "send_message3": "I love you so much.",
+      "Behappy": "Be happy"
+    },
+
+
+
+      
+    "privacy_list": [
+        [
+          "1. Purpose of personal information processing",
+          "Purpose of personal information processing(Tellmyou under 'www.tellmyou.website')Personal information is processed for the following purposes. Personal information processed will not be used for any purpose other than the following purposes, and prior consent will be sought if the purpose of use is changed.",
+          " A. etc",
+          "Hosting company can handle personal information for the purpose of detecting data anomalies and problems and the bank can handle personal information when paying donations for some reasons",
+          "This privacy is translated by 'Naver PaPago'. so It can be wrong. For accurate information, use the privacy policy written in Korean."
+        ],
+        [
+          "2. Personal information file status",
+          "• Personal information file name: Hosting company and financial institutions can collect data necessary for the company.",
+          "• Personal information items: Items according to each company's personal information utilization policies, such as credit card information, bank account information, service use records, access logs, cookies, access IP information, payment records, etc.",
+          "• method of collection: When users access this website, the host company can collect the data necessary for access, and the financial company can collect the data necessary for payment.",
+          "• Reasons for holding : Developers do not collect data (However, financial institutions can collect data for transactions (such as payment records) when using payment, and hosting companies can collect service usage records, access logs, cookies, and access IP information when accessing the website.)",
+          "• Retention period: According to the regulations of the hosting company, according to the standards of the financial company",
+          "• Relevant Acts and subordinate statutes: Records on the collection, processing, use, etc. of credit information: 3 years, records on consumer complaints or dispute settlement: 3 years, records on the supply of goods, etc.: 5 years"
+        ],
+        [
+          "3. Processing and retention period of personal information",
+          "• ① ('Tellmyou') handles and retains personal information within the period of possession and use of personal information or the period of use of personal information agreed upon when collecting personal information from the subject.",
+          "• ② Each personal information processing and retention period is as follows.",
+          "• 1.<>",
+          "• <>Personal information related to this information is collected. from the date of consent concerning use <Developer does not have personal information> Retention for the purpose of use aboveIt's used.",
+          "• Basis of retention : The developer does not have any personal information of the user.",
+          "• Relevant statutes :None",
+          "• Reasons for exception : The developer does not collect, retain, or share any personal information of the user. But The developer's website uses servers from third-party hosting companies for hosting, so it is accessed through servers from third-party hosting companies. In that case, third-party hosting companies can collect basic generated data (e.g., IP, connection log, etc.). In addition, when payment is made through a financial institution (e.g., donation), financial institutions or intermediate financial institutions can collect data for users' payment. Therefore, please check the information collected by each agency (hosting: netlife, donation: Paypal, share: Facebook, line, Twitter, and also inform the developer of this website that it is not responsible for legal issues (please request each company for relevant data if there is a legal problem)."
+        ],
+        [
+          "4. Matters concerning the provision of personal information to third parties",
+          "① (Tellmyou under 'www.tellmyou.website')provides personal information to third parties only when it falls under Articles 17 and 18 of the Personal Information Protection Act, such as consent of the information subject and special provisions of the law.",
+          "② ('www.tellmeyou.website')provides personal information to third parties as follows",
+          "1. <None>",
+          "• Person who receives personal information:None",
+          "• Purpose of the recipient's personal information use :None",
+          "• The possession of the recipientperiod of use:None"
+        ],
+        [
+          "5. Right to exercise as a subject of personal information",
+          "① The information subject may exercise the right to view, correct, delete, or request processing suspension of Tellmyou at any time. However, this website developer does not store personal information, so you can request it to the website connected to this website. (3. Processing and retention period of personal information - Please read the exceptions.) "
+    
+        ],
+        [
+          "6. Drawing up item of processing personal information",
+          "① (Tellmyou under 'www.tellmyou.website')handles the following personal information items.",
+          "• Essential item : None",
+          "• Optional items : None",
+          "• However, when a hosting company hosting this website, a financial company for donation, or a shared website for sharing, each company can collect personal information according to the company's essential items and options. Please read each company's personal information processing policy carefully. We inform you that the personal information collection policy of each company is not related to this website and that the developer of this website is not responsible for any problems caused by this website."
+        ],
+        [
+          "7. Destruction of personal information",
+          "In principle, 'Tellmyou' destroys personal information without delay if the purpose of personal information processing is achieved. Procedure, deadline, and method for revocation are as follows.",
+          "-Dismissal procedure: The information entered by the user is transferred to a separate DB after achieving the purpose (in case of paper, separate documents) and stored for a certain period of time in accordance with internal policies and other related statutes, and then destroyed immediately. At this time, personal information transferred to DB is not used for any other purpose except by law.",
+          "-Disappearance deadline: If the personal information of a user expires, the personal information of the user shall be destroyed within five days from the end of the retention period, or within five days from the date on which the personal information is deemed unnecessary, such as the achievement of the purpose of personal information processing, the abolition of the relevant service, or the termination of the business."
+        ],
+        [
+          "8. Matters concerning the installation, operation, and rejection of personal information collection device",
+          "① Tellmeyou dose not use  ‘쿠기(cookie)’.",
+          "② But Tellmeyou's advertisement can use your cookies. If you don't want it, Please Use the method you provide.(Google Adsense, Kakaoaddfit's methods)"
+        ],
+        [
+          "9. The Personal Information Protection Officer",
+          "① Tellmeyou(Tellmyou under 'www.tellmyou.website') We are in charge of handling personal information and designate a person in charge of personal information protection as follows for handling complaints and damage relief related to personal information processing.",
+          "▶ Personal Information Protection Officer",
+          "• Name :Tellmeyou Developer",
+          "• Job : Developer",
+          "• email : tellmeyou@gmail.com"
+        ],
+        [
+          "10. Change of personal information processing policy",
+          "①This Privacy Policy is applied from the enforcement date, and there are cases where changes are added, deleted, and corrected in accordance with statutes and policies. Please check the privacy policy before using this website."
+        ],
+        [
+          "11. Measures to secure personal information safety",
+          "According to Article 29 of the Personal Information Protection Act, 'Tellmeyou' takes technical, administrative and physical measures necessary for securing safety as follows.",
+          "• Regular self-audit is conducted regularly (once a quarter) to ensure stability related to personal information handling."
+        ]
+      ],
+    
+      "policy_list": [
+        [
+          "1. What is a cookie?",
+          "Cookies are small pieces of text file or information stored on your computer or mobile device (e.g., your smartphone or tablet) when you visit our site. ",
+          "Cookies usually include the name of the website from which they were sent, the cookie's 'life' (i.e., how long the cookie remains on your device), and the numerical value (a unique number that has been generated randomly)."
+        ],
+        [
+          "2. What purpose do you use cookies for?",
+          "Developers do not collect cookies, but they can use them for advertising and some services on this website, such as Kakao, Google and donation sites..",
+          "Advertisements (such as Google Access, Kakao Adfit) and donation sites can expose ads that meet your interests or use them for some services."
+        ],
+        [
+          "3. What type of cookies do you use?",
+          "There are two types of cookies available on the site: 'session cookies' and 'persistent cookies'.",
+          "Session cookies are temporary cookies that remain on your device until you leave the site. ",
+          "Persistent cookies remain on your device longer or until you delete them yourself (how long they remain on your device depends on the 'life' of the particular cookie)."
+        ],
+        [
+          "4. What kind of cookies do we use?",
+          "We have listed the different types of cookies available on the 'Tellmeyou' site below. It is mainly a collection of cookies for advertisement and donation, and it can be collected by each service provider that is not kept by the developer.",
+          "For example, visitors' website usage information about our site can be shared with our third-party advertising agency to improve targeted Internet banner advertising on our website.",
+          "However, the information collected through the use of these pixel tags cannot be personally identified, even if they are linked to your personal information.",
+          "• Essential Cookies: Essential Cookies are required for the site to function and for you to browse the site and to make the services and functions available. Without these absolutely necessary cookies, the Site will not be able to function as smoothly as we would like and we will not be able to provide the Site or any service you request.",
+          "• Social Plug-in Tracking Cookies : These cookies are used to track members (and non-members) of the social media network for market research analysis and product development.",
+          "• Affinity Cookies : Affinity Cookies collect information about your choices and preferences, enable us to remember language or other regional settings, and align accordingly.",
+          "• Analysis Cookies : Analysis cookies collect information about your site usage and help us improve the way the site works. For example, analysis cookies show us which pages we visit the most on the site, help us record the difficulties you experience on the site, and whether our advertising is effective. This allows us to see the overall pattern on the site, not on any individual's use."
+          ,"• Marketing Cookies : Ad cookies are used for marketing purposes."
+        ],
+        [
+          "5. How can i manage cookies?",
+          "While most Internet browsers are initially set up to receive cookies automatically, most Internet browsers allow you to change the settings to block cookies or warn you when cookies are sent to your device.",
+          "In addition to the choices listed above, you can reject, receive, or remove your cookies by Enableing or connecting to settings on your browser",
+          "Information about the procedures to enable, disable, or remove cookies can be found on your Internet browser provider's website on your Help screen.",
+          "Please note that if cookies are not available or removed, all functions of the site may not work as intended (for example, you may not be able to visit any area of our site or receive personalized information when you visit the site).",
+          "If you use multiple devices (e.g., your computer, smartphone, tablet, etc.) to view and access the site, please note that you need to set up each browser on each device to suit your cookie preferences."
+        ],
+        [
+          "6. PIXEL TAGS",
+          "Some pages you visit on the site use pixel tags (also called clear 'gif') to collect information to share with third parties that directly support our promotional activities and website development.",
+          "However, information collected through the use of these pixel tags cannot be personally identified, even if linked to your personal information."
+        ],
+        [
+          "7. Contact Us",
+          "If you have some questions about cookies policy, You can send me e-mail(tellmeyou@gmail.com).",
+          "Please note that email contacts are not always secure. therefore, do not include your credit card number or sensitive information in your email to me"
+        ]
+      ]
+}
